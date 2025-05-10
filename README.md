@@ -1,2 +1,2 @@
-# Framed
-Reduces video fps to 3 and exports each frame as an image to a 'frames' folder.
+### To use 
+Just put an 'input.mp4' video into the folder, open a terminal and navigate to the said folder then just do `bash framed.sh`
